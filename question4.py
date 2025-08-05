@@ -12,3 +12,11 @@ for file in os.listdir(current_directory):
         print(file)
 
 
+"""
+output:
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python question4.py
+file.txt
+"""
+
+
