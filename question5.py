@@ -24,3 +24,16 @@ for file in os.listdir(os.getcwd()):
         end_path=os.path.join(report_path,file)
         shutil.move(start_path,end_path)
         print(file,"is moved to reports directory")
+
+
+"""
+output:
+
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python question5.py
+reports directory not there and created!
+Found .txt file: file.txt
+file.txt is moved to reports directory
+Found .txt file: file1.txt
+file1.txt is moved to reports directory
+"""

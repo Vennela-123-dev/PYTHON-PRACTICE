@@ -13,3 +13,11 @@ else:
   os.mkdir(folder)
 
 # path=os.path.join(os.getcwd(),folder) : join folder with current path
+
+
+"""
+output:
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python question3.py
+test_folder not exists
+"""

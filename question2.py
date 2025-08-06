@@ -11,3 +11,11 @@ elif os.path.isdir(path):
   print("directory exists")
 else:
   print("file or directory not exists")
+
+"""
+output:
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python question2.py
+enter file or directory path:question1.py
+file exists
+"""
