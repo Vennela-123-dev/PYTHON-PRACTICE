@@ -21,3 +21,14 @@ else:
     with open(sample_file_path,"w") as f:
         f.write("This is a sample text file.\nYou can add more content here.")
     print(f"Sample file 'example.txt' created in '{folder_name}' folder.")
+
+
+
+"""
+output:
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python question1task2.py
+The folder 'data_input' already exists at: C:\Users\Naresh\OneDrive\PYTHONSCRIPT\PYTHON-PRACTICE\data_input
+You can now work with the .txt files inside this folder.
+Sample file 'example.txt' created in 'data_input' folder.
+"""
