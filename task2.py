@@ -56,3 +56,10 @@ with open(summary_path, 'w') as summary_file:
         summary_file.write(entry + "\n")
 
 print(f"Done. Modified files + summary saved in '{output_folder}' folder.")
+
+
+"""
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main)
+$ python task2.py
+Done. Modified files + summary saved in 'data_output' folder.
+"""
