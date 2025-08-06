@@ -1,0 +1,3 @@
+Summary of Processed Files
+===========================
+example.txt | Lines: 1 | Words: 6
