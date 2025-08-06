@@ -1,0 +1,13 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1876       1    1875       4012  cons1     197609 13:19:10 /usr/bin/vim
+     2018       1    2018      13624  cons4     197609 13:46:53 /usr/bin/bash
+     1665       1    1665       6560  cons2     197609 13:15:13 /usr/bin/bash
+     2017       1    2016      10972  cons3     197609 13:46:49 /usr/bin/vim
+     1663       1    1663       7576  cons0     197609 13:15:12 /usr/bin/bash
+     2016    1877    2016      11780  cons3     197609 13:46:46 /mingw64/bin/git
+     1664       1    1664       1152  cons1     197609 13:15:12 /usr/bin/bash
+     1877       1    1877      11312  cons3     197609 13:19:17 /usr/bin/bash
+     2167    2018    2167      14292  cons4     197609 14:06:45 /usr/bin/bash
+     2170    2167    2167       4840  cons4     197609 14:06:46 /usr/bin/ps
+     2171    2167    2167       8220  cons4     197609 14:06:46 /usr/bin/bash
+     1875    1664    1875       6528  cons1     197609 13:19:07 /mingw64/bin/git
