@@ -11,3 +11,13 @@ for file_name in os.listdir(folder_name):
             content = file.read()
             print(f"\n--- {file_name} ---")
             print(content)
+
+
+"""
+OUTPUT:
+Naresh@DESKTOP-MGP9AJ0 MINGW64 ~/OneDrive/PYTHONSCRIPT/PYTHON-PRACTICE (main|MERGING)
+$ python question2task2.py
+
+--- example.txt ---
+This my python practice taskk 2
+"""
